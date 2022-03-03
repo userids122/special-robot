@@ -10,9 +10,11 @@
 }
 .medium{
     background-color:rgb(252, 119, 10);
+    font-size:20px;
 }
 .max{
     background-color: orangered;
+    font-size:25px;
 }
 .rotatemin{
     animation:rotation 2s;
